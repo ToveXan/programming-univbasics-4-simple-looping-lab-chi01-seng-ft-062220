@@ -30,7 +30,7 @@ end
 array = [5, 4, 3, 2, 1]
 output_array(array)
 
-return_string_array(array)
+def return_string_array(array)
   count = 0 
   while count < array.length do
     new_array.push(array[count].to_s)
