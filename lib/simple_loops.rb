@@ -6,5 +6,5 @@ def loop_message_five_times(parameter)
     count += 1
   end
 end
-
-loop_message_five_times("hello")
+message = "Hello World."
+loop_message_five_times(message)
