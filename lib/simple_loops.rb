@@ -7,3 +7,4 @@ def loop_message_five_times(parameter)
   end
 end
 
+loop_message_five_times("hello")
