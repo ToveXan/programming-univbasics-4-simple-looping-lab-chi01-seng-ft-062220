@@ -29,3 +29,14 @@ def output_array(array)
 end
 array = [5, 4, 3, 2, 1]
 output_array(array)
+
+return_string_array(array)
+  count = 0 
+  while count < array.length do
+    count += 1 
+  end
+end
+
+
+
+
