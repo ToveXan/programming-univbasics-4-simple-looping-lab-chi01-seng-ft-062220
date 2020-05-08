@@ -27,5 +27,5 @@ def output_array(array)
     count += 1 
   end
 end
-
-output_array()
+array = [5, 4, 3, 2, 1]
+output_array(array)
