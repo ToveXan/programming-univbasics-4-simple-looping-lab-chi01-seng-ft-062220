@@ -16,9 +16,9 @@ def message_n_times(message, limit)
     count += 1 
   end
 end
-message = "Hello Moon."
+new_message = "Hello Moon."
 number = 5
-message_n_times(message, number)
+message_n_times(new_message, number)
 
 def output_array(array)
   count = 0
